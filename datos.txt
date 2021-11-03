@@ -1,0 +1,4 @@
+Nombre: Sebastian 
+Apellidos: Gomez Alzate
+Edad: 25 
+Color: Azul
